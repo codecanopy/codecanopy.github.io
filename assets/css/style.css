@@ -620,6 +620,11 @@ h1, h2, h3, h4, h5,
 .container-fluid {
   max-width: 1400px; }
 
+.certificates-header{
+  min-height: 400px;
+  height: calc(50vh - 95px)
+}
+
 .site-hero {
   margin-bottom: 5rem; }
   .site-hero, .site-hero .row {
